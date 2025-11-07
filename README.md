@@ -59,8 +59,4 @@ This project was developed as part of my B.Sc. Computer Science final year cours
 It has been refactored and cleaned before uploading for demonstration purposes.  
 If any components were adapted from open-source materials, appropriate credit is acknowledged.
 
----
 
-## License
-This project is shared for educational and portfolio purposes only.  
-Further use or distribution requires permission from the author.
